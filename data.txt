@@ -1,1 +1,1 @@
-1992: HELLO pixel(12,3) #7
+1992: HELLO pixel(12,4) #0
