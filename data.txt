@@ -1,1 +1,1 @@
-1997: EXPLORE pixel(18,1) #7
+1997: EXPLORE pixel(18,2) #0
