@@ -1,1 +1,1 @@
-2003: ONLINE pixel(30,6) #7
+2003: ONLINE pixel(31,0) #0
