@@ -1,1 +1,1 @@
-1996: LEARN pixel(16,2) #5
+1996: LEARN pixel(16,2) #6
