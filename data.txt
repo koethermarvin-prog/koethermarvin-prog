@@ -1,1 +1,1 @@
-2000: FUTURE pixel(14,6) #7
+2000: FUTURE pixel(15,0) #0
