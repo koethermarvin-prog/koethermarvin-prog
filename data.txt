@@ -1,1 +1,1 @@
-1993: BABY pixel(14,6) #7
+1993: BABY pixel(15,0) #0
