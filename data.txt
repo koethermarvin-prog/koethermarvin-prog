@@ -1,1 +1,1 @@
-1997: EXPLORE pixel(40,6) #7
+1998: LEVEL UP pixel(0,0) #0
