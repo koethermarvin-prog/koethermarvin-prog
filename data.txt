@@ -1,1 +1,1 @@
-1995: DREAM pixel(24,5) #7
+1995: DREAM pixel(24,6) #0
