@@ -1,1 +1,1 @@
-2004: CODE pixel(0,2) #0
+2004: CODE pixel(0,2) #1
