@@ -1,1 +1,1 @@
-2004: CODE pixel(6,2) #5
+2004: CODE pixel(6,2) #6
