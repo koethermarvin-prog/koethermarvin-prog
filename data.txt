@@ -1,1 +1,1 @@
-2002: MUSIC pixel(26,6) #7
+2002: MUSIC pixel(27,0) #0
