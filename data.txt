@@ -1,1 +1,1 @@
-1994: PLAY pixel(12,6) #7
+1994: PLAY pixel(13,0) #0
