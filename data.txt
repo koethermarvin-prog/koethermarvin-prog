@@ -1,1 +1,1 @@
-1998: LEVEL UP pixel(1,6) #7
+1998: LEVEL UP pixel(2,6) #0
