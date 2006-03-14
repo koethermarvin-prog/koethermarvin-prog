@@ -1,1 +1,1 @@
-2006: MYSPACE pixel(7,1) #7
+2006: MYSPACE pixel(8,2) #0
