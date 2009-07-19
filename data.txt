@@ -1,1 +1,1 @@
-2009: GRIND pixel(26,6) #7
+2009: GRIND pixel(27,0) #0
