@@ -1,1 +1,1 @@
-2010: HUSTLE pixel(16,5) #7
+2010: HUSTLE pixel(18,0) #0
