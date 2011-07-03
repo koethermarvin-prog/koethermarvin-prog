@@ -1,1 +1,1 @@
-2011: START pixel(24,0) #7
+2011: START pixel(25,0) #0
