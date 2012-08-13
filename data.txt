@@ -1,1 +1,1 @@
-2012: CREATE pixel(30,1) #5
+2012: CREATE pixel(30,1) #6
