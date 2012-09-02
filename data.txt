@@ -1,1 +1,1 @@
-2012: CREATE pixel(32,6) #7
+2012: CREATE pixel(33,0) #0
