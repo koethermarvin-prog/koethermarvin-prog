@@ -1,1 +1,1 @@
-2014: SCALE pixel(2,6) #7
+2014: SCALE pixel(3,0) #0
