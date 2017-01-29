@@ -1,1 +1,1 @@
-2017: AVGS pixel(1,3) #7
+2017: AVGS pixel(2,0) #0
