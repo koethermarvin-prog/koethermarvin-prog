@@ -1,1 +1,1 @@
-2019: CEO pixel(16,5) #7
+2020: COVID pixel(0,1) #0
