@@ -1,1 +1,1 @@
-2020: COVID pixel(21,0) #7
+2020: COVID pixel(21,6) #0
