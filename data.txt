@@ -1,1 +1,1 @@
-2020: COVID pixel(28,5) #7
+2021: PIVOT pixel(0,0) #0
