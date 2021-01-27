@@ -1,1 +1,1 @@
-2021: PIVOT pixel(2,0) #7
+2021: PIVOT pixel(2,3) #0
